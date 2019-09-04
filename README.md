@@ -6,15 +6,6 @@
 - [牛客网的在线题目](https://www.nowcoder.com/ta/coding-interviews)
 
 
-## 题目分类
-- 树
-   -  1
-   -  2 
-- 链表
-   -  1
-   -  2
-
-
    
    
 ## 题目列表
