@@ -23,7 +23,7 @@
 | 24 | 反转链表 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |[Mirror Of BinaryTree](./24.反转链表/fan-zhuan-lian-biao-lcof.py) | - | - | - |[ReverseList.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/24_ReverseList/ReverseList.cpp) | 
 | 27 | 二叉树的镜像 | [面试题27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |[Mirror Of BinaryTree](./27.二叉树的镜像/er-cha-shu-de-jing-xiang-lcof.py) | - | - | - |[MirrorOfBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/27_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp) | 
 | 28 | 对称的二叉树 | [面试题28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) |[Symmetrical BinaryTree](./28.对称的二叉树/dui-cheng-de-er-cha-shu-lcof.py) | - | - | - |[SymmetricalBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/28_SymmetricalBinaryTree/SymmetricalBinaryTree.cpp) | 
-| 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) |[Accumulate](./28.对称的二叉树/dui-cheng-de-er-cha-shu-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
+| 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) |[Accumulate](./64. 求1+2+…+n/qiu-12n-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
 
 
 
