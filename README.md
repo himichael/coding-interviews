@@ -25,10 +25,14 @@
 | 24 | 反转链表 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |[Mirror Of BinaryTree](./24.反转链表/fan-zhuan-lian-biao-lcof.py) | - | - | - |[ReverseList.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/24_ReverseList/ReverseList.cpp) | 
 | 27 | 二叉树的镜像 | [面试题27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |[Mirror Of BinaryTree](./27.二叉树的镜像/er-cha-shu-de-jing-xiang-lcof.py) | - | - | - |[MirrorOfBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/27_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp) | 
 | 28 | 对称的二叉树 | [面试题28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) |[Symmetrical BinaryTree](./28.对称的二叉树/dui-cheng-de-er-cha-shu-lcof.py) | - | - | - |[SymmetricalBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/28_SymmetricalBinaryTree/SymmetricalBinaryTree.cpp) | 
+| 32-I | 从上到下打印二叉树 | [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|[Print Tree From Top To Bottom](./32.I.从上到下打印二叉树/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.py) | - | - | - |[PrintTreeFromTopToBottom.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/32_01_PrintTreeFromTopToBottom/PrintTreeFromTopToBottom.cpp) | 
 | 42 | 连续子数组的最大和 | [面试题42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Greatest Sum Of Subarrays](./42.连续子数组的最大和/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) | - | - | - |[GreatestSumOfSubarrays.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/42_GreatestSumOfSubarrays/GreatestSumOfSubarrays.cpp) | 
 | 58-1 | 左旋转字符串 | [面试题58 - I.翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|[Reverse Words In Sentence](./58.I.翻转单词顺序/fan-zhuan-dan-ci-shun-xu-lcof.py) | - | - | - |[ReverseWordsInSentence.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/58_01_ReverseWordsInSentence/ReverseWordsInSentence.cpp) | 
 | 58-2 | 左旋转字符串 | [面试题58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|[Left Rotate String](./58.II.左旋转字符串/zuo-xuan-zhuan-zi-fu-chuan-lcof.py) | - | - | - |[LeftRotateString.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/58_02_LeftRotateString/LeftRotateString.cpp) | 
 | 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|[Accumulate](./64.求1+2+n/qiu-12n-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
+
+
+
 
 
 
