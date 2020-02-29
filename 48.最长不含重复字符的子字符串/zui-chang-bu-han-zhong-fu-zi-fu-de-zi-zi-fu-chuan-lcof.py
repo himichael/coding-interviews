@@ -15,3 +15,25 @@
 			d[s[i]] = i
 			res = max(res,i-left+1)
 		return res
+		
+		
+		
+	def lengthOfLongestSubstring(self, s):
+		"""
+		:type s: str
+		:rtype: int
+		"""
+		if not s:
+			return 0
+		letters = set()
+		i,j,n = 0,0,len(s)
+		res = 0
+		while i<n and j<n:
+			if s[j] not in letters:
+				letters.add(s[j])
+				j += 1
+				res = max(res,j-i)
+			else:
+				letters.remove(s[i])
+				i += 1
+		return res
