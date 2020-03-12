@@ -34,4 +34,22 @@
 			else:
 				i += 1
 		return res
+			
+			
+
+	def findContinuousSequence(self, target):
+		if target<=0:
+			return []
+		res = []
+		for i in xrange(1,target):
+			s = i
+			for j in xrange(i+1,target+1):
+				s += j
+				if s>target:
+					break
+				if s==target:
+					res.append([k for k in xrange(i,j+1)])
+					break
+		return res
+		
 		
