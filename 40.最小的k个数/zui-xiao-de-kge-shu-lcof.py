@@ -1,4 +1,5 @@
 ﻿class Solution(object):
+	# 利用大根堆，注意python默认只有小根堆，需要将元素取反再放入
 	def getLeastNumbers(self, arr, k):
 		if not arr or k<=0:
 			return []
