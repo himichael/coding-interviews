@@ -53,3 +53,29 @@
 				y = j + dy[step]
 				queue.append((x,y))
 		return len(cache)
+		
+		
+		
+	# BFS的另一种写法
+	def movingCount(self, m, n, k):		
+		def vaild(i,j):
+			ans = 0
+			while i>0:
+				ans += i%10
+				i //= 10
+			while j>0:
+				ans += j%10
+				j //= 10
+			return ans<=k
+		queue = [(0,0)]
+		cache = set()
+		direct = ((0,1),(1,0))
+		queue.append((0,0))
+		while queue:
+			x, y = queue.pop(0)
+			if 0<=x<m and 0<=y<n and (x,y) not in cache and vaild(x,y):
+				cache.add((x,y)) 
+				# for dx, dy in [(1,0),(0,1),(-1,0),(0,-1)]:
+				for dx, dy in [(1,0),(0,1)]: 	 # 仅考虑向右和向下即可
+					queue.append((x+dx,y+dy)) 
+		return len(cache)
