@@ -40,6 +40,7 @@
 | 54 | 二叉搜索树的第k大节点 | [面试题54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[Kth Node In BST](./54.二叉搜索树的第k大节点/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.py) | - | - | - |[KthNodeInBST.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/54_KthNodeInBST/KthNodeInBST.cpp) | 
 | 55-I | 二叉树的深度 | [面试题55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)|[Tree Depth](./55.I.二叉树的深度/er-cha-shu-de-shen-du-lcof.py) | - | - | - |[TreeDepth.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/55_01_TreeDepth/TreeDepth.cpp) | 
 | 55-II | 平衡二叉树 | [面试题55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)|[Balanced Binary Tree](./55.II.平衡二叉树/ping-heng-er-cha-shu-lcof.py) | - | - | - |[BalancedBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/55_02_BalancedBinaryTree/BalancedBinaryTree.cpp) | 
+| 56-I | 数组中数字出现的次数 | [面试题56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|[Numbers Appear Once](./56.I.数组中数字出现的次数/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.py) | - | - | - |[NumbersAppearOnce.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/56_01_NumbersAppearOnce/NumbersAppearOnce.cpp) | 
 | 57-II | 和为s的连续正数序列 | [面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[Continuous Squence With Sum](./57.II.和为s的连续正数序列/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.py) | - | - | - |[ContinuousSquenceWithSum.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/57_02_ContinuousSquenceWithSum/ContinuousSquenceWithSum.cpp) | 
 | 58-I | 左旋转字符串 | [面试题58 - I.翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|[Reverse Words In Sentence](./58.I.翻转单词顺序/fan-zhuan-dan-ci-shun-xu-lcof.py) | - | - | - |[ReverseWordsInSentence.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/58_01_ReverseWordsInSentence/ReverseWordsInSentence.cpp) | 
 | 58-II | 左旋转字符串 | [面试题58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|[Left Rotate String](./58.II.左旋转字符串/zuo-xuan-zhuan-zi-fu-chuan-lcof.py) | - | - | - |[LeftRotateString.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/58_02_LeftRotateString/LeftRotateString.cpp) | 
@@ -48,6 +49,8 @@
 | 63 | 股票的最大利润 | [面试题63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)|[Maximal Profit](./63.股票的最大利润/gu-piao-de-zui-da-li-run-lcof.py) | - | - | - |[MaximalProfit.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/63_MaximalProfit/MaximalProfit.cpp) |
 | 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|[Accumulate](./64.求1+2+n/qiu-12n-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
 | 67 | 把字符串转换成整数 | [面试题67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|[String To Int](./67.把字符串转换成整数/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.py) | - | - | - |[StringToInt.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/67_StringToInt/StringToInt.cpp) | 
+
+
 
 
 
