@@ -27,6 +27,7 @@
 | 24 | 反转链表 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |[Mirror Of BinaryTree](./24.反转链表/fan-zhuan-lian-biao-lcof.py) | - | - | - |[ReverseList.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/24_ReverseList/ReverseList.cpp) | 
 | 27 | 二叉树的镜像 | [面试题27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |[Mirror Of BinaryTree](./27.二叉树的镜像/er-cha-shu-de-jing-xiang-lcof.py) | - | - | - |[MirrorOfBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/27_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp) | 
 | 28 | 对称的二叉树 | [面试题28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) |[Symmetrical BinaryTree](./28.对称的二叉树/dui-cheng-de-er-cha-shu-lcof.py) | - | - | - |[SymmetricalBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/28_SymmetricalBinaryTree/SymmetricalBinaryTree.cpp) | 
+| 29 | 顺时针打印矩阵 | [面试题29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|[Print Matrix](./面试题29.顺时针打印矩阵/shun-shi-zhen-da-yin-ju-zhen-lcof.py) | - | - | - |[PrintMatrix.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/29_PrintMatrix/PrintMatrix.cpp) | 
 | 30 | 包含min函数的栈 | [面试题30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)|[Min In Stack](./30.包含min函数的栈/bao-han-minhan-shu-de-zhan-lcof.py) | - | - | - |[MinInStack.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/30_MinInStack/MinInStack.cpp) | 
 | 32-I | 从上到下打印二叉树 | [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|[Print Tree From Top To Bottom](./32.I.从上到下打印二叉树/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.py) | - | - | - |[PrintTreeFromTopToBottom.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/32_01_PrintTreeFromTopToBottom/PrintTreeFromTopToBottom.cpp) | 
 | 32-II | 从上到下打印二叉树 | [面试题32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)|[Print Trees In Lines](./32.II.从上到下打印二叉树/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) | - | - | - |[PrintTreesInLines.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/32_02_PrintTreesInLines/PrintTreesInLines.cpp) | 
@@ -49,6 +50,9 @@
 | 63 | 股票的最大利润 | [面试题63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)|[Maximal Profit](./63.股票的最大利润/gu-piao-de-zui-da-li-run-lcof.py) | - | - | - |[MaximalProfit.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/63_MaximalProfit/MaximalProfit.cpp) |
 | 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|[Accumulate](./64.求1+2+n/qiu-12n-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
 | 67 | 把字符串转换成整数 | [面试题67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|[String To Int](./67.把字符串转换成整数/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.py) | - | - | - |[StringToInt.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/67_StringToInt/StringToInt.cpp) | 
+
+
+
 
 
 
