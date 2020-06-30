@@ -20,6 +20,7 @@
 | 5 | 替换空格 | [面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) |[Replace Spaces](./5.替换空格/ti-huan-kong-ge-lcof.py) | - | - | - |[ReplaceSpaces.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/05_ReplaceSpaces/ReplaceSpaces.cpp) | 
 | 6 | 从尾到头打印链表 | [面试题06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) |[PrintList In ReversedOrder](./6.从尾到头打印链表/cong-wei-dao-tou-da-yin-lian-biao-lcof.py) | - | - | - |[PrintListInReversedOrder.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/06_PrintListInReversedOrder/PrintListInReversedOrder.cpp) | 
 | 7 | 重建二叉树 | [面试题07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) |[Construct Binary Tree](./7.重建二叉树/zhong-jian-er-cha-shu-lcof.py) | - | - | - |[ConstructBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/07_ConstructBinaryTree/ConstructBinaryTree.cpp) | 
+| 9 | 用两个栈实现队列 | [09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|[Queue With Two Stacks](./9.用两个栈实现队列/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.py) | - | - | - |[QueueWithTwoStacks.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/09_QueueWithTwoStacks/QueueWithTwoStacks.cpp) | 
 | 10-I | 斐波那契数列 | [面试题10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) |[Fibonacci Number](./10.斐波那契数列/Fibonacci_Number.py) | - | - | - |[Fibonacci.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/10_Fibonacci/Fibonacci.cpp) | 
 | 10-II | 青蛙跳台阶问题 | [面试题10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) |[Fibonacci Number](./10.II.青蛙跳台阶问题/qing-wa-tiao-tai-jie-wen-ti-lcof.py) | - | - | - |[Fibonacci.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/10_Fibonacci/Fibonacci.cpp) | 
 | 13 | 机器人的运动范围| [面试题13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) |[Robot Move](./13.机器人的运动范围/ji-qi-ren-de-yun-dong-fan-wei-lcof.py) | - | - | - |[RobotMove.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/13_RobotMove/RobotMove.cpp) | 
@@ -51,6 +52,7 @@
 | 63 | 股票的最大利润 | [面试题63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)|[Maximal Profit](./63.股票的最大利润/gu-piao-de-zui-da-li-run-lcof.py) | - | - | - |[MaximalProfit.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/63_MaximalProfit/MaximalProfit.cpp) |
 | 64 | 求1+2+…+n | [面试题64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|[Accumulate](./64.求1+2+n/qiu-12n-lcof.py) | - | - | - |[Accumulate.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/64_Accumulate/Accumulate.cpp) | 
 | 67 | 把字符串转换成整数 | [面试题67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|[String To Int](./67.把字符串转换成整数/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof.py) | - | - | - |[StringToInt.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/67_StringToInt/StringToInt.cpp) | 
+
 
 
 
