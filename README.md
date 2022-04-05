@@ -9,7 +9,7 @@
 
    
    
-## 题目列表
+## 剑指Offer 题目列表
 
 | 编号 | 题目名称 | LeetCode地址 | python | Java | c/c++ | Go | 作者给出的实现 | 
 | --- | --- | --- | --- | --- | --- | --- |  --- | 
@@ -32,7 +32,7 @@
 | 24 | 反转链表 | [面试题24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |[Mirror Of BinaryTree](./24.反转链表/fan-zhuan-lian-biao-lcof.py) | - | - | - |[ReverseList.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/24_ReverseList/ReverseList.cpp) | 
 | 27 | 二叉树的镜像 | [面试题27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) |[Mirror Of BinaryTree](./27.二叉树的镜像/er-cha-shu-de-jing-xiang-lcof.py) | - | - | - |[MirrorOfBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/27_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp) | 
 | 28 | 对称的二叉树 | [面试题28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) |[Symmetrical BinaryTree](./28.对称的二叉树/dui-cheng-de-er-cha-shu-lcof.py) | - | - | - |[SymmetricalBinaryTree.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/28_SymmetricalBinaryTree/SymmetricalBinaryTree.cpp) | 
-| 29 | 顺时针打印矩阵 | [面试题29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|[Print Matrix](./面试题29.顺时针打印矩阵/shun-shi-zhen-da-yin-ju-zhen-lcof.py) | - | - | - |[PrintMatrix.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/29_PrintMatrix/PrintMatrix.cpp) | 
+| 29 | 顺时针打印矩阵 | [面试题29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)|[Print Matrix](./29.顺时针打印矩阵/shun-shi-zhen-da-yin-ju-zhen-lcof.py) | - | - | - |[PrintMatrix.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/29_PrintMatrix/PrintMatrix.cpp) | 
 | 30 | 包含min函数的栈 | [面试题30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)|[Min In Stack](./30.包含min函数的栈/bao-han-minhan-shu-de-zhan-lcof.py) | - | - | - |[MinInStack.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/30_MinInStack/MinInStack.cpp) | 
 | 32-I | 从上到下打印二叉树 | [面试题32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|[Print Tree From Top To Bottom](./32.I.从上到下打印二叉树/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.py) | - | - | - |[PrintTreeFromTopToBottom.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/32_01_PrintTreeFromTopToBottom/PrintTreeFromTopToBottom.cpp) | 
 | 32-II | 从上到下打印二叉树 | [面试题32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)|[Print Trees In Lines](./32.II.从上到下打印二叉树/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) | - | - | - |[PrintTreesInLines.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/32_02_PrintTreesInLines/PrintTreesInLines.cpp) | 
@@ -41,7 +41,7 @@
 | 38 | 字符串的排列 | [面试题38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[String Permutation](./38.字符串的排列/zi-fu-chuan-de-pai-lie-lcof.py) | - | - | - |[StringPermutation.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/38_StringPermutation/StringPermutation.cpp) | 
 | 40 | 40.最小的k个数 | [面试题40. 40.最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|[KLeast Numbers](./40.最小的k个数/zui-xiao-de-kge-shu-lcof.py) | - | - | - |[KLeastNumbers.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/40_KLeastNumbers/KLeastNumbers.cpp) | 
 | 42 | 连续子数组的最大和 | [面试题42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Greatest Sum Of Subarrays](./42.连续子数组的最大和/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) | - | - | - |[GreatestSumOfSubarrays.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/42_GreatestSumOfSubarrays/GreatestSumOfSubarrays.cpp) | 
-| 46 | 把数字翻译成字符串 | [面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|[Translate Numbers To Strings](./面试题46.把数字翻译成字符串/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py) | - | - | - |[TranslateNumbersToStrings.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/46_TranslateNumbersToStrings/TranslateNumbersToStrings.cpp) | 
+| 46 | 把数字翻译成字符串 | [面试题46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|[Translate Numbers To Strings](./46.把数字翻译成字符串/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.py) | - | - | - |[TranslateNumbersToStrings.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/46_TranslateNumbersToStrings/TranslateNumbersToStrings.cpp) | 
 | 48 | 最长不含重复字符的子字符串 | [面试题48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)|[Longest Substring Without Dup](./48.最长不含重复字符的子字符串/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.py) | - | - | - |[LongestSubstringWithoutDup.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/48_LongestSubstringWithoutDup/LongestSubstringWithoutDup.cpp) | 
 | 51 | 数组中的逆序对 | [面试题51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|[Inverse Pairs](./51.数组中的逆序对/shu-zu-zhong-de-ni-xu-dui-lcof.py) | - | - | - |[InversePairs.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/51_InversePairs/InversePairs.cpp) | 
 | 54 | 二叉搜索树的第k大节点 | [面试题54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[Kth Node In BST](./54.二叉搜索树的第k大节点/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.py) | - | - | - |[KthNodeInBST.cpp](https://github.com/zhedahht/CodingInterviewChinese2/blob/master/54_KthNodeInBST/KthNodeInBST.cpp) | 
@@ -62,7 +62,10 @@
 
 
 
-
+## 剑指Offer-II 题目列表
+| 编号 | 题目名称 | LeetCode地址 | python | Java | c/c++ | Go | 
+| --- | --- | --- | --- | --- | --- | --- |  
+| 091 | [粉刷房子](https://leetcode-cn.com/problems/JEj789/)|[python](./Offer-II-091.粉刷房子/JEj789.py) | - | - | - |  
 
 
 
