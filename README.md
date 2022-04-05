@@ -65,6 +65,7 @@
 ## 剑指Offer-II 题目列表
 | 编号 | 题目名称 | LeetCode地址 | python | Java | c/c++ | Go | 
 | --- | --- | --- | --- | --- | --- | --- |  
+| 088 | [爬楼梯的最少成本](https://leetcode-cn.com/problems/GzCJIP/)|[python](./Offer-II-088.爬楼梯的最少成本/GzCJIP.py) | - | - | - |  
 | 091 | [粉刷房子](https://leetcode-cn.com/problems/JEj789/)|[python](./Offer-II-091.粉刷房子/JEj789.py) | - | - | - |  
 
 
